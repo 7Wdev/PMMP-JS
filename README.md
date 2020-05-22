@@ -17,7 +17,7 @@ Server\plugins\PMMP-JS.phar
 3-enjoy !
 
 
-I started to develop this project for free and for all so please don't fake/steal the ownership, your a javascript developer and you are enjoying coding mcbe plugins but you have not enough knowledge in php?
+I started to develop this project for free and for all so please don't fake/steal the ownership, you'r a javascript developer and you are enjoying coding mcbe plugins but you have not enough knowledge in php?
 No problem, with this plugin you can load js scripts inside your pmmp server!
 After you run this plugin you will notice that there will be a folder called "Scripts" in your server dir, there you should put your scripts - example: "Server/Scripts/yourscript.js"...
 NOTICE: if your script was loaded that doesn't mean that your code is clean and your script is working !
