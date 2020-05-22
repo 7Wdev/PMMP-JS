@@ -22,7 +22,7 @@ No problem, with this plugin you can load js scripts inside your pmmp server!
 After you run this plugin you will notice that there will be a folder called "Scripts" in your server dir, there you should put your scripts - example: "Server/Scripts/yourscript.js"...
 NOTICE: if your script was loaded that doesn't mean that your code is clean and your script is working !
 
-if you like to support this project, your welcome tank you then ;)
+if you like to support this project, your welcome thank you then ;)
 * [Donate](https://paypal.me/AdeIssawe?locale.x=en_US)
 
 
