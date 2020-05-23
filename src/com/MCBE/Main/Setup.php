@@ -2,6 +2,10 @@
 declare(strict_types=1);
 namespace com\MCBE\Main;
 
+/**************************************************************************************
+the code is working however it is messy,don't worry it wll be clean in the full version - STILL ALPHA1!
+**************************************************************************************/
+
 //pmmp libs!
 use pocketmine\plugin\PluginBase;
 use pocketmine\plugin\Plugin;
