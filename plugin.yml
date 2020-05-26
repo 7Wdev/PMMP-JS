@@ -1,0 +1,19 @@
+name: PMMP-JS
+main: com\MCBE\Main\Setup
+version: alpha1
+api: [3.0.0]
+author: 7awariGamer(7Wdev)         #this plugin developed by 7Wdev!
+                                   #this plugin runs simple js codes!
+                                   #this plugin is free for all!
+                                   #have fun coding js plugins in your pmmp server!
+description: plugin that loads and runs javascript
+
+commands:
+  scripts:
+    description: shows you the number of the scripts that have been loaded!
+    usage: "/scripts"
+    permission: pocketmine.javascript.scripts
+permissions:
+  pocketmine.javascript.scripts:
+    description: "/scripts"
+    default: true
