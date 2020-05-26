@@ -23,8 +23,7 @@ After you run this plugin you will notice that there will be a folder called "Sc
 NOTICE: if your script was loaded that doesn't mean that your code is clean and your script is working !
 
 if you like to support this project, your welcome thank you then ;)
-* [Donate](https://paypal.me/AdeIssawe?locale.x=en_US)
-
+[![Donate](https://img.shields.io/badge/donate-PayPal-yellow.svg?style=flat-square)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MABFZPDR8F5UG)
 
 * [7Wstore](#) - plugin installing link from 7Wstore !
 
