@@ -4,7 +4,7 @@ namespace com\MCBE\Commands;
 
 /**************************************************************************************
 the code is working however it is messy,don't worry it wll be clean in the full version - STILL ALPHA1!
-**************************************************************************************/
+*************************************************************************************/
 
 //pmmp libs!
 use pocketmine\plugin\Plugin;
