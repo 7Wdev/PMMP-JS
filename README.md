@@ -26,7 +26,7 @@ if you like to support this project, your welcome thank you then ;)
 
 [![Donate](https://img.shields.io/badge/donate-PayPal-yellow.svg?style=flat-square)](https://paypal.me/AdeIssawe)
 
-![](resources/20200526_215628.jpg) ![](resources/20200526_215601.jpg) ![](resources/20200526_215601.jpg)
+![](resources/20200526_215628.jpg) ![](resources/20200526_215601.jpg) ![](resources/20200526_215647.jpg)
 
 * [7Wstore](#) - plugin installing link from 7Wstore !
 
