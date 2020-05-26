@@ -26,6 +26,8 @@ if you like to support this project, your welcome thank you then ;)
 
 [![Donate](https://img.shields.io/badge/donate-PayPal-yellow.svg?style=flat-square)](https://paypal.me/AdeIssawe)
 
+![](https://raw.githubusercontent.com/solo5star/HotAirBalloon/master/assets/image/HotAirBalloon.gif)
+
 * [7Wstore](#) - plugin installing link from 7Wstore !
 
 
