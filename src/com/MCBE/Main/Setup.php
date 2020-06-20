@@ -4,7 +4,8 @@ namespace com\MCBE\Main;
 
 /**************************************************************************************
 the code is working however it is messy,don't worry it wll be clean in the full version - STILL ALPHA1!
-*************************************************************************************/
+also i wanna give credits for: https://github.com/sstur/js2php
+**************************************************************************************/
 
 //pmmp libs!
 use pocketmine\plugin\PluginBase;
@@ -23,6 +24,8 @@ use ZipArchive;
 
 //mine libs!
 use com\MCBE\Commands\ScriptsCommand;
+use com\MCBE\php\classes\Array;
+use com\MCBE\php\classes\Boolean;
 
 class Setup extends PluginBase implements Listener {
 
