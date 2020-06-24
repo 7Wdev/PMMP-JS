@@ -26,6 +26,7 @@ use ZipArchive;
 use com\MCBE\Commands\ScriptsCommand;
 use com\MCBE\php\classes\Array;
 use com\MCBE\php\classes\Boolean;
+use com\MCBE\php\classes\Buffer;
 
 class Setup extends PluginBase implements Listener {
 
