@@ -28,6 +28,7 @@ use function substr;
 use com\MCBE\Main\Setup;
 use com\MCBE\php\classes\Array;
 use com\MCBE\php\classes\Boolean;
+use com\MCBE\php\classes\Buffer;
 
 class ScriptsCommand {
 
