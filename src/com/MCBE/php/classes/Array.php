@@ -1,5 +1,5 @@
 <?php
-namespace com\MCBE\php;
+namespace com\MCBE\php\classes;
 
 /**************************************************************************************
 the code is working however it is messy,don't worry it wll be clean in the full version - STILL ALPHA1!
