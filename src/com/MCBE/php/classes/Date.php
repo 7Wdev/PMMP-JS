@@ -1,4 +1,11 @@
 <?php
+namespace com\MCBE\php\classes;
+
+/**************************************************************************************
+the code is working however it is messy,don't worry it wll be clean in the full version - STILL ALPHA1!
+also i wanna give credits for: https://github.com/sstur/js2php
+**************************************************************************************/
+
 class Date extends Object {
   public $className = "Date";
   /* @var DateTime - date object; second accuracy only; "local" timezone */
