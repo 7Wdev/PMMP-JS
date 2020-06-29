@@ -27,6 +27,15 @@ use com\MCBE\Commands\ScriptsCommand;
 use com\MCBE\php\classes\Array;
 use com\MCBE\php\classes\Boolean;
 use com\MCBE\php\classes\Buffer;
+use com\MCBE\php\classes\Date;
+use com\MCBE\php\classes\Error;
+use com\MCBE\php\classes\Exception;
+use com\MCBE\php\classes\Function;
+use com\MCBE\php\classes\Global;
+use com\MCBE\php\classes\Number;
+use com\MCBE\php\classes\Object;
+use com\MCBE\php\classes\RegExp;
+use com\MCBE\php\classes\String;
 
 class Setup extends PluginBase implements Listener {
 
