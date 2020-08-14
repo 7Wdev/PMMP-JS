@@ -46,4 +46,4 @@ this plugin works with reducing lag system !
 
 this is a free plugin for all pmmp users !
 
-it is working with 3.0.0 api !
+it is working with 4.0.0 api !
