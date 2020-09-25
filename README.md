@@ -34,7 +34,7 @@ if you like to support this project, your welcome thank you then ;)
 
 
 #### Info
-plugin developed by : 7awariGamer[7Wdev] !
+plugin developed by : Ade Issawe[7Wdev] !
 
 simple support for javascript in pmmp !
 
